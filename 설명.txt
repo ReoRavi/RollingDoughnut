@@ -1,0 +1,5 @@
+Rolling_Doughnut - 소스, 이미지 들이 포함된 유니티 프로젝트 폴더입니다.
+
+도넛을 만들고, 만든 도넛을 판매하여 가게를 경영하는 모바일 게임입니다.
+
+롤링도넛 다운로드 - https://play.google.com/store/apps/details?id=com.Ripple.RollingDount&hl=ko
